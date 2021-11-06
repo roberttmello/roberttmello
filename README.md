@@ -15,7 +15,6 @@
   <img align="center" alt="Icon NextJs" height="40" src="https://camo.githubusercontent.com/d5bd7ee34ab0250c1613c61add0f937fb4917cde97e77cb0e86c634fec22b4e9/68747470733a2f2f6b617573747562682e6465762f696d672f6e6578746a732e36333338653362312e706e67">
 </div>
 
-##
 <h2 align="center">Contact</h2>
 <div align="center">
   <a  href="https://www.linkedin.com/in/roberttmello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
