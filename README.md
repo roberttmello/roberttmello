@@ -18,7 +18,6 @@
   <img align="center" alt="Icon mongoDB " height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
 </div>
 
-##
 <h2 align="center">Contact</h2>
 <div align="center">
   <a  href="https://www.linkedin.com/in/roberttmello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
