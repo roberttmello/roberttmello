@@ -10,7 +10,7 @@
  
 <br>
 
-<div style="display:flex; justify-content:space-between">
+<div style="display:flex; justify-content:space-between; flex-wrap: nowrap">
   <div>
     <img align="center" alt="Icon Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Icon React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
