@@ -10,7 +10,7 @@
  
 <br>
 
-<div style="display:flex; justify-content:space-between; flex-wrap: nowrap">
+<div style="display:flex;">
   <div>
     <img align="center" alt="Icon Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Icon React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -19,7 +19,7 @@
     <img align="center" alt="Icon Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   </div>
 
-  <div>
+  <div style="justify-self: end">
       <img src="https://komarev.com/ghpvc/?username=roberttmello&color=green" alt="Profile views"/>
   </div>
   
