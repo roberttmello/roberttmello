@@ -8,9 +8,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberttmello&layout=compact&langs_count=7&theme=midnight-purple">
 
 </div>
- 
-<br>
 
+##
+ 
+<!-- <br> -->
 
 My favorite tools: <img align="center" alt="Icon Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Icon React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="Icon Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
