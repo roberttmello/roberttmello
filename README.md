@@ -13,13 +13,6 @@ My statistics:
 
 My favorite tools: <img align="center" alt="Icon Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Icon React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="Icon Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
-   
-##
-
-
-<img src="https://komarev.com/ghpvc/?username=roberttmello&color=green" alt="Profile views"/> ✌️
-
-
 ##
 
 <a  href="https://www.linkedin.com/in/roberttmello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
