@@ -1,5 +1,7 @@
-<a align="center" target="_blank" ><img src="./assets/readme.png" alt="My image presentation"></a>
 
+<div align="center">
+  <img src="./assets/readme.png" alt="My image presentation">
+</div>
 
 <h2 align="center">My statistics</h2>
 <div align="center"  style="display: flex;">
