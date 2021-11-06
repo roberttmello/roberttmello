@@ -1,10 +1,10 @@
 <a align="center" target="_blank" ><img src="./assets/readme.png" alt="My image presentation"></a>
 
 ##
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=roberttmello&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberttmello&layout=compact&langs_count=7&theme=midnight-purple">
-
+<div style="display: flex;">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=roberttmello&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberttmello&layout=compact&langs_count=7&theme=midnight-purple">
+</div>
 
 ##
  
