@@ -1,5 +1,5 @@
 
-<a align="center" target="_blank" ><img src="./assets/readme.svg" alt="My image presentation"></a>
+<a align="center" target="_blank" ><img src="./assets/readme.png" alt="My image presentation"></a>
 
 ##
 <!-- <div style="display:flex">
